@@ -85,6 +85,6 @@ __The blank characters are mainly ignored__, except in a `<SENTENCE>`, so
 that you can write your vote file in a clear, human-readable way.
 
 ## References
-* [1]: https://en.wikipedia.org/wiki/Ranked\_Pairs
-* [2]: https://en.wikipedia.org/wiki/Voting\_paradox
-* [3]: http://condorcet.ericgorr.net/
+* [1]: [Ranked Pairs on Wikipedia](https://en.wikipedia.org/wiki/Ranked_Pairs)
+* [2]: [Voting paradox on Wikipedia](https://en.wikipedia.org/wiki/Voting_paradox)
+* [3]: [Voting calculator of Eric Gorr](http://condorcet.ericgorr.net)
